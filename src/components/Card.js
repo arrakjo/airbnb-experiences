@@ -2,7 +2,7 @@ import React from "react";
 import "./Card.css";
 import { data } from "../json/data";
 
-function Card(props) {
+function Card() {
   return (
     <div className="card-container">
       {data.map((data, key) => {
