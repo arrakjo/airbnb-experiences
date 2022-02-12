@@ -17,7 +17,7 @@ export const data = [
     counter: "58",
     location: "Paris, France",
     title: "Visit Louvre Museum",
-    price: "$19",
+    price: "€17",
   },
   {
     id: "3",
@@ -37,7 +37,7 @@ export const data = [
     counter: "30",
     location: "London, UK",
     title: "Learn wedding photography",
-    price: "$125",
+    price: "£125",
   },
   {
     id: "5",
